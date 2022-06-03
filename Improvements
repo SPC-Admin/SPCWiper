@@ -1,0 +1,11 @@
+Mechanical Improvements:
+  -Tightening of clearances on bearings for a proper press-fit. Bearings currently are tight on the titanium rod, but not the delrin endcap. It is suspected that this    loose fit is the cause of deflection in the rod compromising the rotary seals.
+  -Complete housing revision to reflect the Blue Robotics Housing changes that feature precision machined bores, lengths, and locking cords.
+
+Electrical Improvements:
+  -Further dialing in of delays necessary to ensure full port coverage without damaging the wiper with collisions with the camera frame.
+  
+Looking Ahead:
+  -Possible rearrangement of SPCs to allow symmetrical loading of the wiper. This would negate deflection that is currently the source of housing leaks and failures. A smaller wipe angle would allow for slower but more powerful motors, reducing another failure mode.
+  -Adapt design for use on the SPC-DUAL or other systems.
+  -Incorporation of guiding ring to guide other end of wiper arm, preventing deflection.
